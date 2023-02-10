@@ -50,6 +50,18 @@ This program is about a telephone book which contains all of the information of 
 
 8- Choose “6” to “Print” all of the contacts. You can print them sorted either by last name or by date of birth. As shown, the user will be asked to choose “1” for the contacts to be sorted by last name, “2” to be sorted by date of birth or “0” if you want to quit.
 
+* If you chose “1” to sort them by last name then the program will sort them as follow:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104737465/218182023-30930f45-e2fa-4bcf-9a2b-63c227a79ee8.png" width="700" height="400" title="hover text">
+</p>
+
+* If you chose “2” to sort them by date of birth then the program sort them as follow:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104737465/218182305-cd1d2b40-05fd-46f1-9530-0258f1be2da0.png" width="700" height="400" title="hover text">
+</p>
+
 9- Choose “7” to “Save” all the changes the user has done. The user should be aware that all the modifications that have been done will be saved temporarily ONLY while using the program before quitting. However, all these changes will vanish AND will not be saved in the phonebook (file) unless choosing option “7” “Save” 
 
 <p align="center">
@@ -58,4 +70,8 @@ This program is about a telephone book which contains all of the information of 
 
 10- Choose “8” to “Quit” the program. If you chose “0” the program will quit without saving any unsaved changes. If you chose “1” then the program will quit and save all the unsaved information. If you chose “2” then the program will save and continue so the user can still use the program.
 
+11- Finally, this is the file’s final shape after all the modifications we did, while we were clarifying how the program works.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104737465/218182497-8cb6f23e-4bbd-4be5-8249-e7887c52b934.png" width="700" height="400" title="hover text">
+</p>
